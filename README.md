@@ -1,2 +1,8 @@
-# app-dev
-My first repository
+# Favorite Movies
+```
+{
+  "firstMovie": "Avengers",
+  "secondMovie": "Spiderman",
+  "thirdMovie": "Batman"
+}
+```
